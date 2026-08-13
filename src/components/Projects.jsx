@@ -27,7 +27,7 @@ function Projects() {
         "Tailwind CSS",
         "JavaScript",
       ],
-      github: "https://github.com/",
+      github: "https://github.com/Ayush12177/Personal-Portfolio",
       live: "#",
     },
 
