@@ -3,12 +3,12 @@ function Skills() {
     {
       icon: "</>",
       title: "Languages",
-      items: ["Java", "Python", "JavaScript", "HTML", "CSS"],
+      items: ["Java", "Python", "JavaScript"],
     },
     {
       icon: "WEB",
       title: "Frontend",
-      items: ["React", "Tailwind CSS", "Vite", "Responsive UI"],
+      items: ["React", "HTML", "Tailwind CSS"],
     },
     {
       icon: "API",
