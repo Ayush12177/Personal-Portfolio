@@ -8,7 +8,7 @@ function Skills() {
     {
       icon: "WEB",
       title: "Frontend",
-      items: ["React", "HTML", "Tailwind CSS"],
+      items: ["React", "HTML","CSS", "Tailwind CSS"],
     },
     {
       icon: "API",
