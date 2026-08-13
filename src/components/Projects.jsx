@@ -28,7 +28,7 @@ function Projects() {
         "JavaScript",
       ],
       github: "https://github.com/Ayush12177/Personal-Portfolio",
-      live: "#",
+      live: "https://personal-portfolio-iota-navy-13.vercel.app/",
     },
 
     {
@@ -58,6 +58,20 @@ function Projects() {
       ],
       github: "https://github.com/Ayush12177/know-your-taste",
       live: "#",
+    },
+
+    {
+      title: "simon-says-game",
+      description:
+        "A simple implementation of the classic Simon Says game using HTML and JavaScript.",
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        
+      ],
+      github: "https://github.com/Ayush12177/simon-says-game",
+      live: "https://simon-says-game-smoky-alpha.vercel.app/",
     },
   ];
 
