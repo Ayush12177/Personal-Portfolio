@@ -47,7 +47,7 @@ function Projects() {
     },
 
     {
-      title: "kow-your-taste",
+      title: "know-your-taste",
       description:
         "A MERN-based food delivery application with food discovery features and Instagram-style reels for an engaging user experience.",
       technologies: [
