@@ -42,8 +42,8 @@ function Projects() {
         "EJS",
         "Tailwind CSS",
       ],
-      github: "https://github.com/Ayush12177/Kaamkaaj",
-      live: "https://kaamkaaj-help.onrender.com/",
+      github: "https://github.com/Ayush12177/Kaamkaaj-help",
+      live: "https://kaamkaaj-connectors.onrender.com/",
     },
 
     {
